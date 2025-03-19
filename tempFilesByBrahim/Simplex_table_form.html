@@ -1,0 +1,79 @@
+<html><head><base href="https://websim.ai/"></head><body>
+  <h1>Dynamic Table with Addable Columns and Rows</h1>
+
+  <div class="overflow-x-auto relative shadow-md sm:rounded-lg">
+    <table class="w-full text-sm text-left text-gray-500 dark:text-gray-400">
+      <thead class="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
+        <tr id="header-row"></tr>
+      </thead>
+      <tbody id="table-body"></tbody>
+    </table>
+  </div>
+
+  <div class="mt-4 flex justify-between">
+    <button id="add-column" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+      Add Column
+    </button>
+    <button id="add-row" class="bg-green-500 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">
+      Add Row
+    </button>
+  </div>
+
+  <style>
+    @import "https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css";
+  </style>
+
+  <script>
+    let columnCount = 1;
+    let rowCount = 1;
+
+    function addColumn() {
+      const headerRow = document.getElementById('header-row');
+      const headerCell = document.createElement('th');
+      headerCell.textContent = `Column ${columnCount}`;
+      headerCell.scope = 'col';
+      headerRow.appendChild(headerCell);
+
+      const rows = document.getElementById('table-body').rows;
+      for (let i = 0; i < rows.length; i++) {
+        const cell = rows[i].insertCell();
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.placeholder = `Column ${columnCount}`;
+        input.className = 'bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5';
+        cell.appendChild(input);
+      }
+
+      columnCount++;
+    }
+
+    function addRow() {
+      const tableBody = document.getElementById('table-body');
+      const row = tableBody.insertRow();
+
+      for (let i = 0; i < columnCount; i++) {
+        const cell = row.insertCell();
+        const input = document.createElement('input');
+        input.type = 'text';
+        input.placeholder = `Row ${rowCount}, Column ${i + 1}`;
+        input.className = 'bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5';
+        cell.appendChild(input);
+      }
+
+      rowCount++;
+    }
+
+    document.getElementById('add-column').addEventListener('click', addColumn);
+    document.getElementById('add-row').addEventListener('click', addRow);
+  </script>
+</body></html>
+
+In this updated example, each table data cell (`<td>`) contains an `<input>` field with a placeholder text based on the column and row number. The input fields are styled using Tailwind CSS classes.
+
+Here are the changes made:
+
+1. Inside the `addColumn` function, instead of adding a text node to the new cell, an `<input>` element is created with a placeholder text and some styles.
+2. Inside the `addRow` function, for each new cell, an `<input>` element is created with a placeholder text based on the row and column number, and some styles.
+3. The Tailwind CSS classes for the input fields are added to style them. You can customize the styles as needed.
+
+With these changes, each table cell now contains an input field with a placeholder text, and you can add columns and rows dynamically.

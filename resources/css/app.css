@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Nunito";
+    src: url("./Fonts/Nunito.ttf");
+}
+
+.sticky-filter-bar {
+    position: -webkit-sticky;
+  }
+
+  .nav{
+    z-index: 80;
+  }
+  .cart{
+    z-index: 81;
+  }
+  .DropDown{
+    z-index: 81;
+  }
+body {
+    overflow-x: hidden;
+  }
+
+div.scroll::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: rgb(206, 206, 206);
+    border-radius: 70;
+    width: fit-content;
+
+  }
+
+  ::-webkit-scrollbar {
+    width: 9px;
+    height: 9px;
+
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #c89b73;
+    border-radius: 70;
+
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #b58458
+  }

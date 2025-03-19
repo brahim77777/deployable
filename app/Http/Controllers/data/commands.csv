@@ -1,0 +1,101 @@
+id,first_name,last_name,enterprise_name,address,city,cin,phone,email,products,total_price,free_shipping,status,created_at,updated_at
+1,Aniya,Weimann,,"84256 Beverly Road
+Wisozkport, OH 50308","Port Magdalenafurt",2697968292813005,1-661-660-9927,langosh.theron@marvin.com,"4,#003200,M 4,#003200,M",790.86,1,canceld,2023-12-13T04:57:44.000000Z,2024-05-23T18:40:14.000000Z
+2,Einar,Mills,,"17586 Klein Oval
+Kalliestad, WI 02722-0409",Kemmerfurt,5263129004057756,424-452-1258,lbeahan@hotmail.com,"1,#ffffff,S 1,#ffffff,S",227.57,1,pending,2024-01-07T19:52:34.000000Z,2024-05-23T18:40:14.000000Z
+3,Brendan,Nader,,"61565 Renner Islands
+Josephinebury, MD 32971",Kaelynton,5119186675206431,734.284.1812,grimes.hazle@hotmail.com,"4,#003200,M 3,#000ff0,XL",305.29,0,failed,2024-01-29T02:43:45.000000Z,2024-05-23T18:40:14.000000Z
+4,Alexys,Tromp,,"8117 Kelley Points Suite 005
+Hymanstad, CT 78804-9823","West Annaview",5585073466406872,669.871.6585,moises.heathcote@dach.com,"4,#003200,M 2,#000000,L ",182.93,1,failed,2023-10-01T17:02:42.000000Z,2024-05-23T18:40:14.000000Z
+5,Rose,Swaniawski,,"797 Tromp Inlet Apt. 470
+South Daronview, MT 86474",Maryjanefort,2659494881616077,1-276-426-5803,zena.stiedemann@rogahn.com,"5,#ff0000,S 2,#000000,L ",284.39,1,failed,2024-02-02T02:20:43.000000Z,2024-05-23T18:40:14.000000Z
+6,Elza,Kohler,,"73730 Koch Lakes Suite 500
+O'Keefestad, NH 72291",Blancaburgh,4916339764436,330.618.1405,kemmer.tristian@hodkiewicz.info,"2,#000000,L  1,#ffffff,S",855.11,0,failed,2023-09-01T16:04:34.000000Z,2024-05-23T18:40:14.000000Z
+7,Leora,Yost,,"94540 Swift Ways Suite 457
+Kovacektown, GA 19601",Hartmanntown,4929831843000801,"+1 (817) 529-8345",qzemlak@gleichner.info,"2,#000000,L  1,#ffffff,S",636.73,1,canceld,2023-10-27T21:39:56.000000Z,2024-05-23T18:40:14.000000Z
+8,Scotty,Rowe,,"3543 Nienow Run
+Bergnaumside, FL 05028",Goodwinport,4929621657941343,820-865-1089,joannie.mosciski@oreilly.com,"5,#ff0000,S 4,#003200,M",224.84,1,paid,2023-08-20T08:51:41.000000Z,2024-05-23T18:40:14.000000Z
+9,Mekhi,Schamberger,,"3120 Rose Skyway Suite 227
+Lake Erik, ME 05841","North Dedrictown",5288368010790775,+1.442.463.0040,boyer.cristopher@gmail.com,"1,#ffffff,S 5,#ff0000,S",612.54,1,verified,2023-07-03T03:20:25.000000Z,2024-05-23T18:40:14.000000Z
+10,Junius,Rippin,,"1557 Vena Glens Suite 187
+Lake Aiyana, NV 81097",Franciscoborough,5414966067523101,740-214-8714,rylan65@hansen.com,"3,#000ff0,XL 2,#000000,L ",756.01,1,canceld,2023-09-10T23:24:42.000000Z,2024-05-23T18:40:14.000000Z
+11,Celestine,Herman,,"80114 Helene Wells Apt. 816
+East Salma, WY 31762","New Dagmar",370873845034786,+1-352-465-5739,cortney79@prohaska.org,"5,#ff0000,S 5,#ff0000,S",445.24,1,failed,2024-04-11T23:15:27.000000Z,2024-05-23T18:40:14.000000Z
+12,Jamaal,Mann,,"843 Carmen Lane
+Gordonchester, NJ 68026-5875","New Ransomton",2720464945994880,+1-330-806-8998,pharris@hotmail.com,"5,#ff0000,S 4,#003200,M",9.24,0,paid,2023-11-19T09:17:05.000000Z,2024-05-23T18:40:14.000000Z
+13,Levi,Rohan,,"9688 Wintheiser Roads
+Mrazport, TX 20686-5047",Bartolettiberg,4024007105777899,"(520) 325-5047",kimberly27@mertz.org,"1,#ffffff,S 5,#ff0000,S",443.2,1,canceld,2023-09-30T17:25:00.000000Z,2024-05-23T18:40:14.000000Z
+14,Madge,Altenwerth,,"64716 VonRueden Trace
+Kautzerville, TN 26287-5139","New Favian",4539122825063096,+1.940.382.0308,elias.reinger@hessel.com,"5,#ff0000,S 2,#000000,L ",813.59,1,pending,2023-06-19T17:27:05.000000Z,2024-05-23T18:40:14.000000Z
+15,Winnifred,Walter,,"84720 Madelyn Grove
+West Isabella, IA 15354-2280","West Goldenchester",5471825326802807,1-336-299-5984,pgulgowski@swift.org,"4,#003200,M 1,#ffffff,S",731.19,1,verified,2024-01-20T23:26:41.000000Z,2024-05-23T18:40:14.000000Z
+16,Tanya,O'Conner,,"845 Block Port Apt. 606
+Allisonport, IL 14820","Port Emmanuelle",5383940377993830,1-252-336-1171,jayda45@gmail.com,"2,#000000,L  2,#000000,L ",10.52,1,failed,2024-01-28T21:40:37.000000Z,2024-05-23T18:40:14.000000Z
+17,Trisha,Huel,,"8390 Madeline Port Suite 318
+East Melvina, TN 46264",Osinskiside,5446316806325461,651.646.4207,mkiehn@rodriguez.biz,"1,#ffffff,S 3,#000ff0,XL",76.09,1,canceld,2024-03-20T03:33:46.000000Z,2024-05-23T18:40:14.000000Z
+18,Joy,Dach,,"61151 Adrienne Crescent Suite 121
+Littlefurt, VT 59121-4146","South Ariane",5580041354943160,936-355-0681,burley12@hayes.com,"2,#000000,L  1,#ffffff,S",224.03,1,failed,2023-08-23T17:25:28.000000Z,2024-05-23T18:40:14.000000Z
+19,Elwin,Pfannerstill,,"98993 Carroll Unions Suite 956
+Hillhaven, DC 62462-1928","New Florida",5332019892847797,1-858-726-6666,jamaal.swaniawski@gmail.com,"3,#000ff0,XL 2,#000000,L ",372.83,1,paid,2024-03-05T23:04:54.000000Z,2024-05-23T18:40:14.000000Z
+20,Marguerite,Gerhold,,"258 Kuhlman Corner
+Runolfsdottirtown, VA 44789",Kaceymouth,2221963605078086,724.829.5448,esimonis@luettgen.com,"5,#ff0000,S 2,#000000,L ",837.29,0,pending,2024-05-08T20:17:52.000000Z,2024-05-23T18:40:14.000000Z
+21,Seamus,Grant,,"61463 Wiza Inlet
+Ciarashire, IN 62797-5285","New Daphneyshire",2308241678633996,248.496.0098,adella.kuphal@green.info,"5,#ff0000,S 2,#000000,L ",434.18,1,pending,2024-04-09T18:58:32.000000Z,2024-05-23T18:40:14.000000Z
+22,Fay,Fadel,,"589 Von Pines Apt. 070
+Lake Ellaberg, WV 17313","East Aniyahaven",4556010651132424,+1.754.287.2801,strosin.billy@schiller.com,"2,#000000,L  1,#ffffff,S",514.75,1,canceld,2023-06-22T02:47:00.000000Z,2024-05-23T18:40:14.000000Z
+23,Antonietta,Prosacco,,"6607 Pacocha Land
+West Merle, NH 30581",Gusikowskiside,4716988710108534,1-470-782-8303,boyer.vida@hotmail.com,"4,#003200,M 4,#003200,M",937.95,0,verified,2023-08-07T04:22:51.000000Z,2024-05-23T18:40:14.000000Z
+24,Ashton,Macejkovic,,"962 Kelly Brook
+New Adrienport, IN 48852-1920",Hayleymouth,4556567249567,"(754) 538-5866",erdman.lexus@christiansen.org,"5,#ff0000,S 3,#000ff0,XL",683.15,0,pending,2023-06-08T22:50:18.000000Z,2024-05-23T18:40:14.000000Z
+25,Gianni,Swaniawski,,"627 Will Stravenue
+Dewittshire, CA 70274",Kundeton,2614580822976945,364.297.1255,wleannon@gmail.com,"3,#000ff0,XL 2,#000000,L ",654.84,0,pending,2023-12-14T04:00:02.000000Z,2024-05-23T18:40:14.000000Z
+26,Rory,Greenholt,,"361 Mayer Inlet Apt. 833
+Tierraside, GA 15034","Lake Bennyshire",2221975126066259,"+1 (254) 915-1309",ashtyn.schoen@gmail.com,"5,#ff0000,S 1,#ffffff,S",449.26,1,canceld,2024-03-29T15:39:41.000000Z,2024-05-23T18:40:14.000000Z
+27,Brandyn,Runolfsson,,"790 Leannon Mountains
+South Lonny, VT 11990","New Kenneth",4929820885979964,+1-781-237-9292,jovan82@sauer.com,"5,#ff0000,S 2,#000000,L ",231.99,0,canceld,2023-12-02T20:54:12.000000Z,2024-05-23T18:40:14.000000Z
+28,Mona,Koelpin,,"4233 Fay Pass Suite 948
+Faheyborough, FL 22576-0676","New Elwyntown",3589603142022148,+1-904-499-8411,mozelle.welch@hotmail.com,"5,#ff0000,S 4,#003200,M",212.58,1,canceld,2023-09-15T18:56:07.000000Z,2024-05-23T18:40:14.000000Z
+29,Emilia,Nicolas,,"5510 Bogisich Fords
+South Gustave, MO 74811",Theronfort,2696565908211979,"(540) 566-6852",freeda.kris@cole.com,"1,#ffffff,S 4,#003200,M",441.21,1,canceld,2024-02-19T10:19:25.000000Z,2024-05-23T18:40:14.000000Z
+30,Annamarie,Reynolds,,"446 Osinski Wells
+Port Emmystad, MS 39174","West Russ",4916753689426202,+18508773866,feil.leonie@wilderman.com,"3,#000ff0,XL 4,#003200,M",987.91,1,canceld,2023-06-28T12:49:45.000000Z,2024-05-23T18:40:14.000000Z
+31,Justus,Kunze,,"2545 Rogelio Groves
+Joneston, WY 19908","Port Grovertown",5165583980529056,+15735236819,jhermann@schinner.info,"5,#ff0000,S 3,#000ff0,XL",973.31,0,pending,2023-09-22T00:05:18.000000Z,2024-05-23T18:40:14.000000Z
+32,Godfrey,Morissette,,"31828 Hanna Route
+South Frederique, AZ 79295-8567",Oberbrunnerberg,4929880260216820,"+1 (832) 345-5045",queenie32@gmail.com,"5,#ff0000,S 1,#ffffff,S",807.36,1,failed,2024-05-01T05:57:08.000000Z,2024-05-23T18:40:14.000000Z
+33,German,Homenick,,"559 Koepp Circles
+Considineberg, NY 59887",Madiemouth,346729590707458,+16898209631,altenwerth.athena@boyer.net,"2,#000000,L  2,#000000,L ",430.42,1,canceld,2023-06-22T13:52:07.000000Z,2024-05-23T18:40:14.000000Z
+34,Christ,Nienow,,"94698 Ervin Estate Suite 225
+West Ettieland, DC 86538-5483","Lake Daytonside",4532068143047,862.599.9109,trinity.langworth@yahoo.com,"5,#ff0000,S 3,#000ff0,XL",454.92,1,verified,2023-11-21T04:41:49.000000Z,2024-05-23T18:40:14.000000Z
+35,Bart,Kerluke,,"7395 Ullrich Forge
+South Drewland, AZ 48095-4482","Port Allene",4929114343061130,+1-573-974-9353,nora53@hotmail.com,"1,#ffffff,S 5,#ff0000,S",126.48,0,verified,2023-11-03T18:53:49.000000Z,2024-05-23T18:40:14.000000Z
+36,Reggie,Rogahn,,"12881 Lueilwitz Lodge Suite 823
+North Torrance, WV 52158",Barrowsborough,349723750229020,+1-540-986-4985,ujast@keeling.com,"5,#ff0000,S 3,#000ff0,XL",870.13,1,failed,2023-08-16T18:41:36.000000Z,2024-05-23T18:40:14.000000Z
+37,Coy,Pollich,,"49056 Brown Squares Apt. 829
+New Alexandroshire, AR 54969-6368","East Orieberg",3589299534381349,351.860.1492,gwen.howe@yahoo.com,"5,#ff0000,S 4,#003200,M",146.03,1,canceld,2024-01-17T02:39:54.000000Z,2024-05-23T18:40:14.000000Z
+38,Bobbie,Fritsch,,"420 Zachery Square Apt. 716
+Port Abdiel, KS 94974","North Kadinmouth",5247615623066203,636-631-0618,maxine.legros@hand.com,"1,#ffffff,S 3,#000ff0,XL",33.63,0,paid,2024-05-23T00:39:01.000000Z,2024-05-23T18:40:14.000000Z
+39,Audrey,Boyle,,"453 Pollich Via
+Hudsonfort, KS 47013",Weberfort,5314551695609810,+1-214-201-6591,fcole@schamberger.com,"5,#ff0000,S 3,#000ff0,XL",462.22,1,paid,2023-06-19T07:09:05.000000Z,2024-05-23T18:40:14.000000Z
+40,Cassidy,Feeney,,"8064 Jackeline Pines Suite 674
+Lake Zackaryfort, TN 96569-9720",Danborough,2502400595440778,+1-413-622-9362,rupert.donnelly@damore.com,"5,#ff0000,S 1,#ffffff,S",800.26,0,paid,2023-06-25T02:26:22.000000Z,2024-05-23T18:40:14.000000Z
+41,Florencio,Kassulke,,"2822 Stracke Gardens Suite 912
+North Cynthia, SD 53113","Port Lulu",3528626747620283,1-916-302-2499,irohan@becker.info,"3,#000ff0,XL 3,#000ff0,XL",592.85,1,failed,2023-07-26T06:12:48.000000Z,2024-05-23T18:40:14.000000Z
+42,Bryce,Bergnaum,,"769 Toy Mews
+East Horacio, CO 60374",Josefafurt,6011770658884038,740-863-6443,adriel.zemlak@gmail.com,"5,#ff0000,S 1,#ffffff,S",666.9,0,pending,2024-01-13T22:15:05.000000Z,2024-05-23T18:40:14.000000Z
+43,Aiden,Dach,,"962 Sydney Fords Apt. 859
+Port Hunter, VA 49759",Olgabury,6011061482604549,1-223-450-6693,uschumm@abshire.net,"4,#003200,M 1,#ffffff,S",520.61,1,pending,2024-05-03T03:39:44.000000Z,2024-05-23T18:40:14.000000Z
+44,Lillian,Towne,,"6724 Jenkins Cove
+New Brett, WA 60772",Jacobsonfort,2606297738802277,+1-458-428-2656,bergstrom.sarina@mccullough.com,"4,#003200,M 2,#000000,L ",220.73,0,verified,2023-08-07T22:08:44.000000Z,2024-05-23T18:40:14.000000Z
+45,Ewald,Jast,,"59638 Jesse Streets
+New Twilaside, VT 20611-8271","New Eldon",6011549476242144,908-308-6471,littel.darius@trantow.com,"3,#000ff0,XL 4,#003200,M",559.65,1,failed,2023-06-03T06:02:57.000000Z,2024-05-23T18:40:14.000000Z
+46,Elouise,Schaefer,,"882 Julio Way
+South Karianne, OH 08260-6353","Lake Ritabury",2720600754075903,1-901-227-0853,stone.lang@gmail.com,"4,#003200,M 5,#ff0000,S",578.14,0,verified,2023-10-03T12:03:24.000000Z,2024-05-23T18:40:14.000000Z
+47,Lucious,Schroeder,,"111 Ardella Road Suite 075
+Enochbury, AK 24355-9019",Durganshire,2565148301918736,"+1 (272) 380-2163",ubuckridge@thiel.com,"2,#000000,L  4,#003200,M",617.21,1,failed,2024-02-28T23:40:17.000000Z,2024-05-23T18:40:14.000000Z
+48,Miller,Zboncak,,"319 Langworth Villages Suite 082
+Donnellyhaven, CT 82664-1795",Abigayleton,2387937250950146,1-220-257-0559,magdalena.jacobs@hoppe.com,"1,#ffffff,S 3,#000ff0,XL",111,0,failed,2024-02-09T02:58:47.000000Z,2024-05-23T18:40:14.000000Z
+49,Evalyn,Brakus,,"37768 Jaren Union Apt. 389
+Abshireport, FL 74574-5514","West Emmet",2720540687440842,"+1 (646) 812-0326",udubuque@gmail.com,"3,#000ff0,XL 5,#ff0000,S",739.91,1,paid,2023-11-01T00:16:09.000000Z,2024-05-23T18:40:14.000000Z
+50,Jannie,Cronin,,"6740 Lauretta Overpass
+Hartmannfort, DC 65581-2234",Amiramouth,4532422413714,269.224.9604,cassin.peggie@strosin.com,"3,#000ff0,XL 1,#ffffff,S",444.35,0,canceld,2023-06-26T03:58:44.000000Z,2024-05-23T18:40:14.000000Z
